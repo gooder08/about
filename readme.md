@@ -1,6 +1,6 @@
 # Кратко о себе
 
-![my photo](ava.jpg =100x100)
+<img src="ava.jpg" width="150" height="150"> 
 
 ## Залесов Александр Леонидович
 
