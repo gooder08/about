@@ -1,6 +1,6 @@
 # Кратко о себе
 
-<image src="https://github.com/gooder08/about/blob/main/%D0%90%D0%B2%D0%B0.jpg" width = "150" height = "150">
+<image src="https://github.com/gooder08/about/blob/main/ava.jpg" width = "150" height = "150">
 
 ## Залесов Александр Леонидович
 
