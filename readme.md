@@ -1,7 +1,6 @@
 # Кратко о себе
 
 ![my photo](ava.jpg)
-![proba](https://klike.net/uploads/posts/2019-05/1556708032_1.jpg)
 
 ## Залесов Александр Леонидович
 
