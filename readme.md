@@ -24,7 +24,7 @@ _Мои контакты:_
 3. <img src="labels/tools_PostgreSQL_color.png" width="20" height="20"> Работа с базами данных с использованием SQLAlchemy и PostgreSQL
 4. <img src="labels/tools_API_color.png" width="20" height="20"> Работа с API сторонних сервисов
 5. <img src="labels/tools_Python_color.png" width="20" height="20"> Unit-тестирование при помощи PyTest и Unittest
-6. <img src="labels/tools_XML.JSON.YAML.CSV_black.png" width="20" height="20"> Работа с файлами
+6. <img src="labels/tools_XML.JSON.YAML.CSV_black.png" width="20" height="20"> Работа с файлами XML/JSON/YAML/CSV
 7. <img src="labels/tools_JIRA_color.png" width="20" height="20"> Система управления проектами Jira
 8. <img src="labels/tools_Linux_color.png" width="20" height="20"> Работа в Linux
 
