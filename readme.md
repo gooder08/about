@@ -22,7 +22,7 @@ _Мои контакты:_
 1. <img src="labels/tools_GIT_color.png" width="20" height="20"> Работа с изменениями кода проекта с помощью Git и GitHub
 2. <img src="labels/tools_Python_color.png" width="20" height="20"> Решение универсальных задач с использованием Python
 3. <img src="labels/tools_PostgreSQL_color.png" width="20" height="20"> Работа с базами данных с использованием SQLAlchemy и PostgreSQL
-4. <img src="labels/tools_API_color.png" width="20" height="20">Работа с API сторонних сервисов
+4. <img src="labels/tools_API_color.png" width="20" height="20"> Работа с API сторонних сервисов
 5. <img src="labels/tools_Python_color.png" width="20" height="20"> Unit-тестирование при помощи PyTest и Unittest
 6. <img src="labels/tools_XML.JSON.YAML.CSV_black.png" width="20" height="20"> Работа с файлами
 7. <img src="labels/tools_JIRA_color.png" width="20" height="20"> Система управления проектами Jira
@@ -30,7 +30,8 @@ _Мои контакты:_
 
 ### Реализованные проекты:
 1. Различные телеграм боты
-2. Работа с API vk.com и Яндекс Диск.
-3. 
+2. Работа с API vk.com, Qiwi кошелька, сервисами Яндекса, Telegram, Nominatim
+3. Парсинг сайтов.
+
 
 
