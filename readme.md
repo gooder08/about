@@ -19,14 +19,14 @@ _Мои контакты:_
 В настоящий момент рассматриваю проекты в сфере IT.</div>
 
 ### Ключевые навыки на май 2023 года
-1. <img src="labels/tools_GIT_color.png"> Работа с изменениями кода проекта с помощью Git и GitHub
-2. <img src="tools_Python_color.png"> Решение универсальных задач с использованием Python
-3. <img src="tools_PostgreSQL_color.png"> Работа с базами данных с использованием SQLAlchemy и PostgreSQL
-4. <img src="tools_API_color.png">Работа с API сторонних сервисов
-5. <img src="tools_Python_color.png"> Unit-тестирование при помощи PyTest и Unittest
-6. <img src="tools_XML.JSON.YAML.CSV_black.png"> Работа с файлами
-7. <img src="tools_JIRA_color.png"> Система управления проектами Jira
-8. <img src="tools_Linux_color"> Работа в Linux
+1. <img src="labels/tools_GIT_color.png" width="50" height="50"> Работа с изменениями кода проекта с помощью Git и GitHub
+2. <img src="tools_Python_color.png" width="50" height="50"> Решение универсальных задач с использованием Python
+3. <img src="tools_PostgreSQL_color.png" width="50" height="50"> Работа с базами данных с использованием SQLAlchemy и PostgreSQL
+4. <img src="tools_API_color.png" width="50" height="50">Работа с API сторонних сервисов
+5. <img src="tools_Python_color.png" width="50" height="50"> Unit-тестирование при помощи PyTest и Unittest
+6. <img src="tools_XML.JSON.YAML.CSV_black.png" width="50" height="50"> Работа с файлами
+7. <img src="tools_JIRA_color.png" width="50" height="50"> Система управления проектами Jira
+8. <img src="tools_Linux_color" width="50" height="50"> Работа в Linux
 
 ### Реализованные проекты:
 1. Различные телеграм боты
