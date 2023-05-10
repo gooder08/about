@@ -19,7 +19,7 @@ _Мои контакты:_
 В настоящий момент рассматриваю проекты в сфере IT.</div>
 
 ### Ключевые навыки на май 2023 года
-1. <img src="tools_GIT_color.png"> Работа с изменениями кода проекта с помощью Git и GitHub
+1. <img src="labels/tools_GIT_color.png"> Работа с изменениями кода проекта с помощью Git и GitHub
 2. <img src="tools_Python_color.png"> Решение универсальных задач с использованием Python
 3. <img src="tools_PostgreSQL_color.png"> Работа с базами данных с использованием SQLAlchemy и PostgreSQL
 4. <img src="tools_API_color.png">Работа с API сторонних сервисов
